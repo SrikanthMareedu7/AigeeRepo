@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="cache">
+    <Basepaths>/cache</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1592113577446</CreatedAt>
+    <CreatedBy>srikanth.mareedu@kelltontech.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>cache</DisplayName>
+    <LastModifiedAt>1592113811016</LastModifiedAt>
+    <LastModifiedBy>srikanth.mareedu@kelltontech.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:1bdb97ed2b82fd77798361585fe53d7db4fc71d698a10fe836dee2334a56838659aeae33f231734b5e43c543b3bfdd2db38a9770eabe692adee197b3f311800a</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
